@@ -1,6 +1,8 @@
+
+# steps to follow
 - npm init -y
 - tsc --init : to intialize tsconfig.json file
-# Edit `tsconfig.jaon`
+# Edit `tsconfig.json`
 - target: ts2018
  "moduleResolution": "node"
  "rootDir":"./src"

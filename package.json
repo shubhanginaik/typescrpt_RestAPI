@@ -4,7 +4,8 @@
   "description": "rest api in typescript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon dist/app.js"
   },
   "keywords": [],
   "author": "shubhangi naik",
