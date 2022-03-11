@@ -11,3 +11,8 @@
 - npm install --save-dev nodemon
 - npm install --save-dev @types/node
 - npm install --save-dev @types/express
+"start":"nodemon dist/app.js"
+
+we download Postman and then foll. pic.
+![postman](postman.png)
+
